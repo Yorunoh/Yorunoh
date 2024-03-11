@@ -5,3 +5,6 @@
 <li>
   <b>Programming language: </b>C, C#, Java
 </li>
+<li>
+  Can write some basic front-end for web
+</li>
